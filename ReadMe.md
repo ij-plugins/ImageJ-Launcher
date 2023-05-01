@@ -1,6 +1,6 @@
 ImageJ Launcher
 ===============
-Simple setup for building the original [ImageJ launcher](https://imagej.nih.gov/ij/download/tools/Launcher.cpp) for Windows.
+Simple setup for building the original [ImageJ launcher](https://imagej.nih.gov/ij/download/tools/Launcher.cpp) for Windows. Intended for ImageJ (ImageJ 1) not FIJI (ImageJ 2).
 
 
 Intallation
